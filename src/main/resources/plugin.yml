@@ -1,0 +1,4 @@
+name: libUsernames
+main: org.retrohaven.libusernames.libUsernames
+author: eleanorsilly
+version: 1.0.0-SNAPSHOT
